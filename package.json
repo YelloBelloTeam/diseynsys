@@ -1,0 +1,18 @@
+{
+  "name": "@backlight-dev/diseynsys.svelte-ktw39sme",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve OQSXdaPfiWKKsKNEXQgu --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.1.9",
+    "lit-html": "^1.4.1"
+  },
+  "dependencies": {
+    "svelte": "^3.42.5"
+  }
+}

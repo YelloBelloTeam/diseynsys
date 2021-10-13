@@ -1,2 +1,0 @@
-# diseynsys
-Svelte + Sass
