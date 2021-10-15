@@ -1,6 +1,6 @@
 import App from '../src/App.svelte';
 
-export const storyUnnamed = () => App;
+export const storyUnarmed = () => App;
 
 export const storyNamed = () => ({
   Component: App,
